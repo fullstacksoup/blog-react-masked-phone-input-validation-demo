@@ -3,7 +3,7 @@ import Grid from '@material-ui/core/Grid';
 import Button from '@material-ui/core/Button';
 import InputPhoneField from './InputPhoneField';
 
-export default class OfferSupportForm extends React.Component {
+export default class ParentForm extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
